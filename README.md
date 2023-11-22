@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - ()﻿ = [위에 만든 자신의 username로 생성된 Repo주소]
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JongHyeokLEE&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JongHyeokLEE)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JongHyeokLEE&langs_count=10&layout=compact&theme=dark)](https://github.com/JonyeokLEE/JonyeokLEE)﻿
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonyeokLEE&langs_count=10&layout=compact&theme=dark)](https://github.com/JonyeokLEE/JonyeokLEE)﻿
