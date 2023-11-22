@@ -14,5 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- username=[사용자이름]
+- langs_count=[화면에 표기될 언어갯수]
+- layout=[화면에 리스트 형식 혹은 통계치로 보여질지 여부]
+- theme=[default는 white배경. 그 외 theme는 github-readme-stats 참조]
+- ()﻿ = [위에 만든 자신의 username로 생성된 Repo주소]
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JongHyeokLEE&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JongHyeokLEE)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JongHyeokLEE&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)﻿
