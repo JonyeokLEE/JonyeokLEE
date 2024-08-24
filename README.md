@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/jonghyeoklee0703@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>&nbsp;
   </a>
   <a href="https://www.instagram.com/jonyeok/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jonyeok/"/>&nbsp
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/jonyeok/"/>&nbsp
   </a>
   <a href="https://www.youtube.com/@hyeok_jong_e">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&link=https://www.youtube.com/@hyeok_jong_e"/>&nbsp\
